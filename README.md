@@ -1,5 +1,5 @@
 ```
-  Started to implement indexing and transcribing of podcasts for generalized indexing search.
+  Implements indexing and transcribing of podcasts for generalized indexing search.
 
 
 ```
